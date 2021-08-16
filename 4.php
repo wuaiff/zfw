@@ -1,5 +1,5 @@
 <?php
-echo "这是4.php";
+echo "这是4.php";echo "这是4.php";echo "这是4.php";echo "这是4.php";
 13124124
 	14145135
 	35235235
